@@ -1,6 +1,6 @@
 # MoD Webhook Message Upsert
 
-- Webhookal upsertelni bejegyzéseket
+- Webhookkal upsertelni bejegyzéseket
 - Egyszerű json és egy powershell script segítségével.
 - **Webhook url-t soha se commitold a repóba!**
 - **Upsert:** Az Insert (POST) és Update (PATCH) összevonva. Ha nem létezik létrehozza, ha létezik felülírja.
