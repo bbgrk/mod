@@ -1,0 +1,45 @@
+[
+  {
+    "messageId": 1492546996446171147,
+    "messageContent": {
+      "content": "# 🌟Ministry of Death Hungary Guild Wars 2 Dicsőségfal🌟\n- Itt azokat ünnepeljük, akik nem hátráltak meg Tyria legkegyetlenebb kihívásai előtt. Azokat, akik szembenéztek a wipe-ok végtelen sorozatával, tanultak minden hibából, és végül diadalmaskodtak ott, ahol a legtöbben elbuknak.\n- Legendás bossok, precíz mechanikák, tökéletes csapatmunka – ezek nem csak harcok voltak, hanem igazi próbák. Minden siker mögött ott van a kitartás, a fókusz és az a pillanat, amikor végre „leesik” a fight.\n- Akik felkerülnek ide, nem csak győztek – bizonyították, hogy a Guild Wars 2 legnehezebb encounterei sem jelentenek akadályt.\n- **Tisztelet minden raid, strike és challenge mode hősnek. Ez a hely a tiétek.**",
+      "components": [],
+      "embeds": []
+    }
+  },
+  {
+    "messageId": 1492546997645869317,
+    "messageContent": {
+      "embeds": [
+        {
+          "fields": [
+            {
+              "name": "HTCM",
+              "value": "Betonrepa\nSztanki\nTedi\nMastro\nAzazel\nTheUIH Gyuszi\nFuximo\nKova\nNerdcore\nFleto\nSimi\nShireviku\nDrakeheart",
+              "inline": true
+            },
+            {
+              "name": "HTCM",
+              "value": "AndyRUM\nArisien\nSaber\nWasss\nDeonnar\nBlade\nEndrosz\nVadii\nDorian GRK\nAcheron",
+              "inline": true
+            },
+            {
+              "name": "HTCM",
+              "value": "Agár\nMartin\nGreylasa\nRaven\nAleyana\nBlade\nGORO\nGarthogg \nSandwraith\nChabie\nLightShout ",
+              "inline": true
+            },
+            {
+              "name": "HTCM 2026",
+              "value": "BlobOoze\nJégkása\nHörcsög\nQXY\nExolarin",
+              "inline": true
+            }
+          ],
+          "color": 300848,
+          "image": {
+            "url": "https://wiki.guildwars2.com/images/c/ce/The_Only_One_loading_screen.png"
+          }
+        }
+      ]
+    }
+  }
+]
