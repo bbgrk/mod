@@ -41,5 +41,33 @@
         }
       ]
     }
+  },
+  {
+    "messageId": 1492558648159768687,
+    "messageContent": {
+      "content": "kaaaaaaaaaaaa",
+      "embeds": [
+        {
+          "image": {
+            "url": "https://wiki.guildwars2.com/images/thumb/2/21/Cerus.jpg/240px-Cerus.jpg"
+          },
+          "fields": [
+            {
+              "name": "CERUS LCM",
+              "value": "- Agár\n- Martin\n**Greylasa**\nRaven\nAleyana\nBlade\nGORO\nGarthogg \nSandwraith\nChabie\nLightShout",
+              "inline": true
+            },
+            {
+              "name": "HTCM",
+              "value": "- Agár\n- Martin\n**Greylasa**\nRaven\nAleyana\nBlade\nGORO\nGarthogg \nSandwraith\nChabie\nLightShout",
+              "inline": true
+            }
+          ],
+          "color": 7998811,
+          "description": "Cerus lcm descriptin",
+          "title": "CERUS LCM KILL Demo1"
+        }
+      ]
+    }
   }
 ]
