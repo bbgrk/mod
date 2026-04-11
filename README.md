@@ -46,6 +46,7 @@ PS C:\DATA\github\mod> .\upsert.ps1 -JsonPath .\dicsosegfal1.json -WebhookUrl ht
 
 ## Discord docs
 
+- https://docs.discord.com/developers/resources/webhook#execute-webhook
 - https://docs.discord.com/developers/resources/message
 - https://docs.discord.com/developers/resources/message#embed-object
 
