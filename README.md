@@ -1,11 +1,13 @@
 # MoD Webhook Message Upsert
 
-- Webhookal upsertelni bejegyzéseket
-- Egyszerű json és egy powershell script segítségével
+- Webhookkal upsertelni bejegyzéseket
+- Egyszerű json és egy powershell script segítségével.
 - **Webhook url-t soha se commitold a repóba!**
 - **Upsert:** Az Insert (POST) és Update (PATCH) összevonva. Ha nem létezik létrehozza, ha létezik felülírja.
-- Akkor tudja, hogy létezik, ha meg van advan a `messageId` mező is.
+- Akkor tudja, hogy létezik, ha meg van adva a `messageId` mező is.
 - Amikor új az üzenet, akkor a `messageId` legyen `null`.
+- Érdemes `egy text channel = egy json fájl`-t tartani.
+- Van rate limit, nagy számú küldésnél elő jöhet: https://docs.discord.com/developers/topics/rate-limits
   
 ## Használat
 
