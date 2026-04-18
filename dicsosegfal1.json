@@ -2,7 +2,7 @@
   {
     "messageId": 1492546996446171147,
     "messageContent": {
-      "content": "# 🌟Ministry of Death Hungary Guild Wars 2 Dicsőségfal🌟\n- Itt azokat ünnepeljük, akik nem hátráltak meg Tyria legkegyetlenebb kihívásai előtt. Azokat, akik szembenéztek a wipe-ok végtelen sorozatával, tanultak minden hibából, és végül diadalmaskodtak ott, ahol a legtöbben elbuknak.\n- Legendás bossok, precíz mechanikák, tökéletes csapatmunka – ezek nem csak harcok voltak, hanem igazi próbák. Minden siker mögött ott van a kitartás, a fókusz és az a pillanat, amikor végre „leesik” a fight.\n- Akik felkerülnek ide, nem csak győztek – bizonyították, hogy a Guild Wars 2 legnehezebb encounterei sem jelentenek akadályt.\n- **Tisztelet minden raid, strike és challenge mode hősnek. Ez a hely a tiétek.**",
+      "content": "# 🌟Ministry of Death Hungary Guild Wars 2 Dicsőségfal🌟\n- Itt azokat ünnepeljük, akik nem hátráltak meg Tyria legkegyetlenebb kihívásai előtt.\n- Azokat, akik szembenéztek a wipeok végtelen sorozatával, tanultak minden hibából és végül diadalmaskodtak.\n- Precíz mechanika végrehajtás, tökéletes csapatmunka - ezek nem csak harcok voltak, hanem igazi próbák.\n - Minden siker mögött ott van a kitartás és a töretlen a fókusz.\n- Akik felkerülnek dicsőségfalunkra, azok bizonyították, hogy a Guild Wars 2 legnehezebb harcai sem jelentenek akadályt.\n- Tisztelet minden raid challenge mode kihívásait teljesítő hős előtt. Ez a hely a tiétek.",
       "components": [],
       "embeds": []
     }
@@ -15,57 +15,18 @@
           "fields": [
             {
               "name": "HTCM",
-              "value": "Betonrepa\nSztanki\nTedi\nMastro\nAzazel\nTheUIH Gyuszi\nFuximo\nKova\nNerdcore\nFleto\nSimi\nShireviku\nDrakeheart",
+              "value": "Blob Ooze\nExolarin\nqXy\nSandwraith\nGRK\nGarthogg\nRavenxxx\nHamster\njegkasa\nCaptainTeDDy",
               "inline": true
             },
             {
-              "name": "HTCM",
-              "value": "AndyRUM\nArisien\nSaber\nWasss\nDeonnar\nBlade\nEndrosz\nVadii\nDorian GRK\nAcheron",
-              "inline": true
-            },
-            {
-              "name": "HTCM",
-              "value": "Agár\nMartin\nGreylasa\nRaven\nAleyana\nBlade\nGORO\nGarthogg \nSandwraith\nChabie\nLightShout ",
-              "inline": true
-            },
-            {
-              "name": "HTCM 2026",
-              "value": "BlobOoze\nJégkása\nHörcsög\nQXY\nExolarin",
-              "inline": true
+              "name": "Log",
+              "value": "attachment://20260409-224359.zevtc"
             }
           ],
           "color": 300848,
           "image": {
             "url": "https://wiki.guildwars2.com/images/c/ce/The_Only_One_loading_screen.png"
           }
-        }
-      ]
-    }
-  },
-  {
-    "messageId": 1492558648159768687,
-    "messageContent": {
-      "content": "kaaaaaaaaaaaa",
-      "embeds": [
-        {
-          "image": {
-            "url": "https://wiki.guildwars2.com/images/5/54/Cerus02_%28teaser%29.jpg"
-          },
-          "fields": [
-            {
-              "name": "CERUS LCM",
-              "value": "- Agár\n- Martin\n**Greylasa**\nRaven\nAleyana\nBlade\nGORO\nGarthogg \nSandwraith\nChabie\nLightShout",
-              "inline": true
-            },
-            {
-              "name": "passz",
-              "value": "- Agár\n- Martin\n**Greylasa**\nRaven\nAleyana\nBlade\nGORO\nGarthogg \nSandwraith\nChabie\nLightShout",
-              "inline": true
-            }
-          ],
-          "color": 7998811,
-          "description": "Cerus lcm descriptin",
-          "title": "CERUS LCM KILL Demo1"
         }
       ]
     }
