@@ -2,31 +2,135 @@
   {
     "messageId": 1492546996446171147,
     "messageContent": {
-      "content": "# 🌟Ministry of Death Hungary Guild Wars 2 Dicsőségfal🌟\n- Itt azokat ünnepeljük, akik nem hátráltak meg Tyria legkegyetlenebb kihívásai előtt.\n- Azokat, akik szembenéztek a wipeok végtelen sorozatával, tanultak minden hibából és végül diadalmaskodtak.\n- Precíz mechanika végrehajtás, tökéletes csapatmunka - ezek nem csak harcok voltak, hanem igazi próbák.\n - Minden siker mögött ott van a kitartás és a töretlen a fókusz.\n- Akik felkerülnek dicsőségfalunkra, azok bizonyították, hogy a Guild Wars 2 legnehezebb harcai sem jelentenek akadályt.\n- Tisztelet minden raid challenge mode kihívásait teljesítő hős előtt. Ez a hely a tiétek.",
+      "content": "# 🌟Ministry of Death Hungary Guild Wars 2 Dicsőségfal🌟\n- Itt azokat ünnepeljük, akik nem hátráltak meg Tyria legkegyetlenebb kihívásai előtt.\n- Azokat, akik szembenéztek a wipeok végtelen sorozatával, tanultak minden hibából és végül diadalmaskodtak.\n- Precíz mechanika végrehajtás, tökéletes csapatmunka - ezek nem csak harcok voltak, hanem igazi próbák.\n- Minden siker mögött ott van a kitartás és a töretlen a fókusz.\n- Akik felkerülnek dicsőségfalunkra, azok bizonyították, hogy a Guild Wars 2 legnehezebb harcai sem jelentenek akadályt.\n- Tisztelet minden raid challenge mode kihívásait teljesítő hős előtt. Ez a hely a tiétek.",
       "components": [],
       "embeds": []
     }
   },
   {
-    "messageId": 1492546997645869317,
+    "messageId": 1495012178296569996,
     "messageContent": {
+      "content": null,
       "embeds": [
         {
+          "title": "HTCM 2026 első csapat",
+          "description": ":crown: Commander **CaptainTeDDy**",
+          "color": 300848,
+          "image": {
+            "url": "https://wiki.guildwars2.com/images/c/ce/The_Only_One_loading_screen.png"
+          },
           "fields": [
             {
-              "name": "HTCM",
-              "value": "Blob Ooze\nExolarin\nqXy\nSandwraith\nGRK\nGarthogg\nRavenxxx\nHamster\njegkasa\nCaptainTeDDy",
+              "name": ":crossed_swords: DPS",
+              "value": "Blob Ooze\nExolarin\nqXy",
+              "inline": true
+            },
+            {
+              "name": ":blue_heart: Heal Kite",
+              "value": "jegkasa\nCaptainTeDDy",
+              "inline": true
+            },
+            {
+              "name": ":purple_circle: Portal",
+              "value": "Sandwraith\nGarthogg",
+              "inline": true
+            },
+            {
+              "name": ":sparkles: QDPS",
+              "value": "Ravenxxx\nHamster",
+              "inline": true
+            },
+            {
+              "name": ":bubbles: Venticator",
+              "value": "GRK",
               "inline": true
             },
             {
               "name": "Log",
-              "value": "attachment://20260409-224359.zevtc"
+              "value": "https://bbgrk.github.io/mod/logs/20260409-224359_harvsttmpl_kill.html",
+              "inline": false
+            }
+          ]
+        }
+      ],
+      "components": [
+        {
+          "type": 1,
+          "components": [
+            {
+              "type": 2,
+              "style": 5,
+              "label": "Log megnyitása",
+              "url": "https://bbgrk.github.io/mod/logs/20260409-224359_harvsttmpl_kill.html",
+              "emoji": {
+                "name": "📰"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "messageId": 1495025844463075398,
+    "messageContent": {
+      "content": null,
+      "embeds": [
+        {
+          "title": "HTCM 2026 második csapat",
+          "description": ":crown: Commander **syntaxERROR**",
+          "fields": [
+            {
+              "name": ":crossed_swords: DPS",
+              "value": "Loki\nBanryuu\nbalurem",
+              "inline": true
+            },
+            {
+              "name": ":blue_heart: Heal Kite",
+              "value": "syntaxERROR\nCaptainTeDDy",
+              "inline": true
+            },
+            {
+              "name": ":purple_circle: Portal",
+              "value": "Sandwraith\nGarthogg",
+              "inline": true
+            },
+            {
+              "name": ":sparkles: QDPS",
+              "value": "Ravenxxx\nKinetix",
+              "inline": true
+            },
+            {
+              "name": ":bubbles: Venticator",
+              "value": "GRK",
+              "inline": true
+            },
+            {
+              "name": "Log",
+              "value": "https://bbgrk.github.io/mod/logs/20260415-214254_harvsttmpl_kill.html",
+              "inline": false
             }
           ],
           "color": 300848,
           "image": {
             "url": "https://wiki.guildwars2.com/images/c/ce/The_Only_One_loading_screen.png"
           }
+        }
+      ],
+      "components": [
+        {
+          "type": 1,
+          "components": [
+            {
+              "type": 2,
+              "style": 5,
+              "label": "Log megnyitása",
+              "url": "https://bbgrk.github.io/mod/logs/20260415-214254_harvsttmpl_kill.html",
+              "emoji": {
+                "name": "📰"
+              }
+            }
+          ]
         }
       ]
     }

@@ -50,12 +50,14 @@ PS C:\DATA\github\mod> .\upsert.ps1 -JsonPath .\dicsosegfal1.json -WebhookUrl ht
 
 - Maximum 2000 karater a `content`
 - Maximum 10MB fájlméret `attachment`
+- A webhookból küldött `components` csak a `with_components=true` query string-el működik
 
 ## Discord docs
 
 - https://docs.discord.com/developers/resources/webhook#execute-webhook
 - https://docs.discord.com/developers/resources/message
 - https://docs.discord.com/developers/resources/message#embed-object
+- https://docs.discord.com/developers/components/reference#button
 
 ## License
 

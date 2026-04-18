@@ -3,46 +3,39 @@ param(
     [string]$JsonPath,
 
     [Parameter(Mandatory = $true)]
-    [string]$WebhookUrl
+    [System.Uri]$WebhookUrl
 )
-
 if (-not (Test-Path $JsonPath)) {
     throw "JSON file not found at path: $JsonPath"
 }
-
-$WebhookUrl = $WebhookUrl.Trim()
 $jsonContent = Get-Content -Path $JsonPath -Raw -Encoding UTF8
-
 try {
     $dataArray = $jsonContent | ConvertFrom-Json -ErrorAction Stop
 } catch {
     throw "Invalid JSON format in file: $JsonPath"
 }
-
 $headers = @{
     "Content-Type" = "application/json; charset=utf-8"
 }
-
 foreach ($entry in $dataArray) {
     $messageId      = $entry.messageId
     $messageContent = $entry.messageContent
-
-    # Serialize only the messageContent for the request body
     $body      = $messageContent | ConvertTo-Json -Depth 100 -Compress
     $bodyBytes = [System.Text.Encoding]::UTF8.GetBytes($body)
-
+    $builder = [System.UriBuilder]$WebhookUrl
     if ($messageId) {
-        $uri    = "$WebhookUrl/messages/$messageId"
+        $builder.Path = "$($WebhookUrl.AbsolutePath)/messages/$messageId"
         $method = "Patch"
     } else {
-        $uri    = $WebhookUrl
+        $builder.Path = $WebhookUrl.AbsolutePath
         $method = "Post"
     }
-
+    $builder.Query = "wait=true&with_components=true"
+    $uri = $builder.Uri.AbsoluteUri
     try {
-        Invoke-RestMethod -Method $method -Uri $uri -Body $bodyBytes -Headers $headers
-        Write-Output "[$method] $uri OK"
+       Invoke-RestMethod -Method $method -Uri $uri -Body $bodyBytes -Headers $headers
+       Write-Output "[$method] OK"
     } catch {
-        Write-Error "[$method] $uri FAILED: $($_.Exception.Message)"
+       Write-Error "[$method] FAILED: $($_.Exception.Message)"
     }
 }
