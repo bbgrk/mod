@@ -44,6 +44,11 @@ PS C:\DATA\github\mod> .\upsert.ps1 -JsonPath .\dicsosegfal1.json -WebhookUrl ht
 ]
 ```
 
+## Discord limitek
+
+- Maximum 2000 karater a `content`
+- Maximum 10MB fájlméret `attachment`
+
 ## Discord docs
 
 - https://docs.discord.com/developers/resources/webhook#execute-webhook
