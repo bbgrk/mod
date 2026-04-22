@@ -1,0 +1,109 @@
+[
+    {
+        "messageId": 1496427375422865439,
+        "messageContent": {
+            "embeds": [
+                {
+                    "image": {
+                        "url": "https://raw.githubusercontent.com/bbgrk/mod/refs/heads/main/docs/src/raid-akademia-ismerteto-infographics1.webp"
+                    },
+                    "description": "# Raid Akadémia Ismertető\n",
+                    "color": 65287,
+                    "fields": [
+                        {
+                            "name": ":small_blue_diamond: MoD Discord",
+                            "value": "Csatlakoztál a discord szerverünkhöz. Üdv köztünk!",
+                            "inline": false
+                        },
+                        {
+                            "name": ":small_blue_diamond: Ismerkedés a Tudástárral",
+                            "value": "Ismerked meg a tudástárban található leírásokkal: [Tovább a Tudástárhoz](https://discord.com/channels/290549656276959242/1451490003363565568)",
+                            "inline": false
+                        },
+                        {
+                            "name": ":small_blue_diamond: Állítsd be a szükséges pluginokat",
+                            "value": "Telepíteni kell a  [Nexus Addon Managert](https://discord.com/channels/290549656276959242/1451503957980614688), majd azon belül az [ArcDPS plugint](https://discord.com/channels/290549656276959242/1451503957980614688/1451504552925724693)"
+                        },
+                        {
+                            "name": ":small_blue_diamond: Karaktered felszerelése",
+                            "value": "Válassz egy kedvenc kasztot, ruházd fel őt a megfelelő felszereléssel\n[Ajánlott MoD buildek kezdőknek](https://discord.com/channels/290549656276959242/1451490003363565568)\n[Ajánlott Snowcrows buildek kezdőknek](https://snowcrows.com/builds/raids?c=beginner)\n[Ajánlott Snowcrows haladóknak](https://snowcrows.com/builds/raids)"
+                        },
+                        {
+                            "name": ":small_blue_diamond: Gyakorolj a tréning gólemen",
+                            "value": "Állítsd be az ArcDPS-t megfelelően: [ArcDPS beállítások](https://discord.com/channels/290549656276959242/1451506360175956080)\nÁllítsd be a tréning golemet megfelelően: [ArcDPS logok létrehozása](https://discord.com/channels/290549656276959242/1451504928496418978)\nGyakorolj a [Special Forces Area](https://wiki.guildwars2.com/wiki/Special_Forces_Training_Area)-ban található tréning gólemen.\n"
+                        },
+                        {
+                            "name": ":small_blue_diamond: Felvételi",
+                            "value": "Töltsd fel az ArcDPS által létrehozott golem logot a [dps.report](https://dps.report/) oldalra, majd\nA feltöltött log linkjét oszd meg velünk itt: [Raid Felvételi csatorna](https://discord.com/channels/290549656276959242/1347545552153215007)"
+                        },
+                        {
+                            "name": ":small_blue_diamond: Visszajelzés",
+                            "value": "Megnézzük a feltöltött logod\nAdunk tippeket, hogy hogyan hozhatod ki a maximumot a karakteredből"
+                        },
+                        {
+                            "name": ":small_blue_diamond: :yellow_circle: Kezdő Raider Rang",
+                            "value": "Sikeres log után <@&1028062710979637309> rang a jutalmad, \namellyel máris jelentkezhetsz [kezdő-raid eseményeinkre](https://discord.com/channels/290549656276959242/797971942312509510)"
+                        },
+                        {
+                            "name": ":small_blue_diamond: Kezdő raid események",
+                            "value": "Részletesen elmagyarázunk minden boss mechanikát\nVáltozatosságot <@&730537177213042709>-ink garantálják\n2 óra raid, szünetekkel"
+                        },
+                        {
+                            "name": ":small_blue_diamond: Előléptetés",
+                            "value": "Részvételed, tudásod követjük, biztosítva a folyamatos fejlődésed.\nIdővel előléptetünk haladó raiderré. [További részletek](https://discord.com/channels/290549656276959242/1451491619361521776)"
+                        }
+                    ]
+                }
+            ],
+            "components": [
+                {
+                    "type": 1,
+                    "components": [
+                        {
+                            "type": 2,
+                            "style": 5,
+                            "label": "Szabályzat",
+                            "url": "https://discord.com/channels/290549656276959242/1054359597546229811",
+                            "emoji": {
+                                "name": "📝"
+                            }
+                        },
+                        {
+                            "type": 2,
+                            "style": 5,
+                            "label": "Raid Akadémia Ismertető",
+                            "url": "https://discord.com/channels/290549656276959242/1454092676554035345",
+                            "emoji": {
+                                "name": "📚"
+                            }
+                        },
+                        {
+                            "type": 2,
+                            "style": 5,
+                            "label": "Raid Akadémia Kezdőlap",
+                            "url": "https://discord.com/channels/290549656276959242/1451491619361521776",
+                            "emoji": {
+                                "name": "📚"
+                            }
+                        },
+                        {
+                            "type": 2,
+                            "style": 5,
+                            "label": "Kérdésem van",
+                            "url": "https://discord.com/channels/290549656276959242/682188288408420353",
+                            "emoji": {
+                                "name": "❓"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "messageId": 1496428043709845544,
+        "messageContent": {
+            "content": "# Milyen jutalmak várnak a Raiden? \n- Kattints ide a teljes [wiki leíráshoz](https://wiki.guildwars2.com/wiki/Raid)\n- 2 gold per boss (dupla ha [Call of the Mists](https://wiki.guildwars2.com/wiki/Call_of_the_Mists_(raid_effect)) aktív)\n- 200 025 XP (dupla ha [Call of the Mists](https://wiki.guildwars2.com/wiki/Call_of_the_Mists_(raid_effect)) aktív)\n- 10 000 Karma per boss\n- [Magnetite Shard](https://wiki.guildwars2.com/wiki/Magnetite_Shard) (Wing 1-7 currency), max 800 hetente.  [Gaeting Crystal](https://wiki.guildwars2.com/wiki/Gaeting_Crystal) Wing 8\n- 1db [Legendary Insight](https://wiki.guildwars2.com/wiki/Legendary_Insight) killproofhoz, craftoláshoz: [Legendary Envoy Armor](https://wiki.guildwars2.com/wiki/Legendary_armor) és [Legendary Gyűrű Coalescence](https://wiki.guildwars2.com/wiki/Coalescence)\n- 1db random Exotic fegyver vagy páncél\n- Egyedi jutalom minden boss ládából:\n  - [Ascended felszerelés](https://wiki.guildwars2.com/wiki/Ascended_equipment), többek közt [Raid fegyverek](https://wiki.guildwars2.com/wiki/Raid_weapons)\n  - [Miniatűrök](https://wiki.guildwars2.com/wiki/Miniature#Raids)\n  - [Dekoráció](https://wiki.guildwars2.com/wiki/Decoration)\n# Challenge Mode (CM) extra jutalmak, úgy mint:\n- 2 gold\n- 10db [Magnetite Shard](https://wiki.guildwars2.com/wiki/Magnetite_Shard)\n- 2db [Provisioner Token](https://wiki.guildwars2.com/wiki/Provisioner_Token)\n- 133 350 XP\n- 1db random Exotic fegyver vagy páncél"
+        }
+    }
+]

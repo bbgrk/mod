@@ -1,6 +1,6 @@
 [
   {
-    "messageId": null,
+    "messageId": 1496417031627604069,
     "messageContent": {
       "content": "# :sparkling_heart: Küldetésünk :sparkling_heart:",
       "embeds": [
@@ -32,7 +32,7 @@
             }
           ],
           "thumbnail": {
-            "url": "attachment://modlogo-white.webp"
+            "url": "https://raw.githubusercontent.com/bbgrk/mod/refs/heads/main/docs/src/modlogo-white.webp"
           }
         }
       ],
@@ -55,7 +55,7 @@
               "label": "Raid Akadémia Ismertető",
               "url": "https://discord.com/channels/290549656276959242/1454092676554035345",
               "emoji": {
-                "name": "📝"
+                "name": "📚"
               }
             },
             {
@@ -64,7 +64,7 @@
               "label": "Raid Akadémia Kezdőlap",
               "url": "https://discord.com/channels/290549656276959242/1451491619361521776",
               "emoji": {
-                "name": "📝"
+                "name": "📚"
               }
             },
             {
@@ -73,7 +73,7 @@
               "label": "Rang kezelő",
               "url": "https://discord.com/channels/290549656276959242/1453753178758844496",
               "emoji": {
-                "name": "📝"
+                "name": "🏹"
               }
             }
           ]
