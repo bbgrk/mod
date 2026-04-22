@@ -1,0 +1,84 @@
+[
+  {
+    "messageId": null,
+    "messageContent": {
+      "content": "# :sparkling_heart: Küldetésünk :sparkling_heart:",
+      "embeds": [
+        {
+          "fields": [
+            {
+              "name": ":small_blue_diamond: Céhünk gyökerei",
+              "value": "a GW1-es hőskorba nyúlnak vissza, a magyar GW2-es közösségnek pedig a játék megjelenése óta az egyik megkerülhetetlen tartópillére vagyunk."
+            },
+            {
+              "name": ":small_blue_diamond: A MoD története",
+              "value": "során rengeteg profil- és tartalmi fókuszváltáson esett át - jelenleg a legtöbb energiánkat és hosszú évek során felhalmozott tudásunkat a PVE ENDGAME tartalmak tanítására, gyakorlására és kompetens űzésére fordítjuk."
+            },
+            {
+              "name": ":small_blue_diamond: Létezésünk legalapvetőbb célja,",
+              "value": " hogy egy befogadó, barátságos és segítőkész közösséget alkossunk, amelyben mindenki találhat magának játszótársakat."
+            },
+            {
+              "name": ":small_blue_diamond: Legjellemzőbb tevékenységi körünket",
+              "value": " 2021 óta legfrappánsabban azzal foglalhatjuk össze, hogy mi vagyunk a magyar GW2 közösség legrégebb óta fennálló és legstabilabb RAID Akadémiája."
+            },
+            {
+              "name": ":small_blue_diamond: Hagyományosan nagy hangsúlyt fektetünk",
+              "value": "Az új játékosok bevezetésére a PVE ENDGAME tartalmakba\nA felvételinket sikeresen teljesítő raidereink tanítására, trenírozására\nA már képzett veteránjaink érdeklődésének fenntartására és a folyamatos vezető-képzésre."
+            },
+            {
+              "name": ":small_blue_diamond: Elvárásaink",
+              "value": "Az általunk kínált programok nem kötelező jellegűek, mindenki azzal tölti az idejét, amivel csak szeretné.\nAz elvárásunk mindenki felé az, hogy tartsa be a szabályzatunkban leírtakat.\nBarátságos, segítőkész szellemben viszonyuljon a céhtársaihoz!"
+            }
+          ],
+          "thumbnail": {
+            "url": "attachment://modlogo-white.webp"
+          }
+        }
+      ],
+      "components": [
+        {
+          "type": 1,
+          "components": [
+            {
+              "type": 2,
+              "style": 5,
+              "label": "Szabályzat",
+              "url": "https://discord.com/channels/290549656276959242/1054359597546229811",
+              "emoji": {
+                "name": "📝"
+              }
+            },
+            {
+              "type": 2,
+              "style": 5,
+              "label": "Raid Akadémia Ismertető",
+              "url": "https://discord.com/channels/290549656276959242/1454092676554035345",
+              "emoji": {
+                "name": "📝"
+              }
+            },
+            {
+              "type": 2,
+              "style": 5,
+              "label": "Raid Akadémia Kezdőlap",
+              "url": "https://discord.com/channels/290549656276959242/1451491619361521776",
+              "emoji": {
+                "name": "📝"
+              }
+            },
+            {
+              "type": 2,
+              "style": 5,
+              "label": "Rang kezelő",
+              "url": "https://discord.com/channels/290549656276959242/1453753178758844496",
+              "emoji": {
+                "name": "📝"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
