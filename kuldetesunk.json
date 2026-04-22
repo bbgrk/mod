@@ -2,7 +2,7 @@
   {
     "messageId": 1496417031627604069,
     "messageContent": {
-      "content": "# :sparkling_heart: Küldetésünk :sparkling_heart:",
+      "content": null,
       "embeds": [
         {
           "fields": [
@@ -33,7 +33,9 @@
           ],
           "thumbnail": {
             "url": "https://raw.githubusercontent.com/bbgrk/mod/refs/heads/main/docs/src/modlogo-white.webp"
-          }
+          },
+          "color": 10042495,
+          "description": "# :sparkling_heart: Küldetésünk :sparkling_heart:"
         }
       ],
       "components": [
